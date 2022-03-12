@@ -7,4 +7,4 @@
 </tr>
 </table>
 
-Movie-Hub Deployment [Link](https://movie-hub-app-react.herokuapp.com/)
+View Live: [Link](https://movie-hub-app-react.herokuapp.com/)
