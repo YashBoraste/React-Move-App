@@ -7,5 +7,4 @@
 </tr>
 </table>
 
-
-![App Deployed Link](https://movie-hub-app-react.herokuapp.com/)
+Movie-Hub Deployment [Link](https://movie-hub-app-react.herokuapp.com/)
